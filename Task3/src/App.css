@@ -1,0 +1,9 @@
+.main-container {
+  display: flex;
+}
+.container {
+  flex-direction: row;
+}
+.container2 {
+  width: 100%;
+}

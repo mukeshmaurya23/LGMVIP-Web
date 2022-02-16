@@ -1,0 +1,20 @@
+.main-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  background: #353036;
+  padding: 0 2rem;
+}
+
+.main-header h3 {
+  color: white;
+  letter-spacing: 0.3rem;
+  font-size: 1.4rem;
+  font-weight: 300;
+}
